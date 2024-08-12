@@ -1,59 +1,58 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
+        "name": " LD01 LOUNGE CHAIR",
         "price": 200,
-        "image": "img/1.png",
+        "image": "img/(1).jpg",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
+        "name": " LD02 LOUNGE CHAIR",
         "price": 250,
-        "image": "img/2.png",
+        "image": "img/(2).jpg",
         "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
+        "name": " Powder Kiss Velvet Blur Slim Stick",
         "price": 290,
-        "image": "img/3.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "image": "img/(3).jpg",
+        "description": "A moisture-infused lipstick that provides 12 hours of on-trend, mega-bold colour and ultra-weightless wear in a single, velvet-soft swipe."
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
+        "name": " Care:Nel Aqua Night Mask",
         "price": 200,
-        "image": "img/4.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "image": "img/4.jpg",
+        "description": "Care:nel Aqua Night Mask has vitamin contents and natural moisturizing factors melt to permeate deep into skin, turning dull skin into bright, clear skin"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
+        "name": " Jani Body Lotion Mint To Be",
         "price": 300,
-        "image": "img/5.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "image": "img/5.jpg",
+        "description": "Mint to Be Body Lotion has a mixture of minty, herbal & sweet scent coming from Peppermint, Lemongrass and Vanilla will leave your skin smell fresh & uplifted. Suitable for normal to Oily Skin Type. Not safe to use during pregancy. Leaves Skin amelling fresh and uplifted. Helps Skin retain moisture. Repairs dull and dry skin. Soothes dry irritated skin."
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
+        "name": " Maybelline Fit Me Matte & Poreless Foundation",
         "price": 200,
-        "image": "img/6.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "image": "img/6.jpg",
+        "description": "Fit Me Matte + Poreless Foundation face makeup is a lightweight foundation that mattifies and refines pores and leaves a natural, seamless finish.."
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
+        "name": " Garnier Pure Active Intensive Charcoal 3 In 1 150ml",
         "price": 200,
-        "image": "img/7.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "image": "img/7.jpg",
+        "description": "Garnier Pure Active 3in1 Anti Blackhead Charcoal can be used as a face wash, blackhead scrub and charcoal face mask to visibly reduce the appearance of blackheads, and help to protect against their reappearance.."
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "name": " Black Opal TRUE COLOR Pore Perfecting Crème Powder Foundation",
         "price": 200,
-        "image": "img/8.png",
-        "description": "Expertly rendered by Carl Hansen & Søn, the lounge chair—first introduced in 1951 and enduring ever since—is available in oak or as a combination of oak and walnut, sourced from sustainable forestry. Choose from seat and back upholstery in a selection of leather options or in a custom fabric."
+        "image": "img/8.jpg",
+        "description": "Flawless coverage with a smooth, velvety finish. This silky, medium-coverage crème-to-powder foundation is formulated to mattify skin and control shine for all-day perfection.."
     }
-
 ]
